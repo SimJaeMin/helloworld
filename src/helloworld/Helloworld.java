@@ -2,6 +2,7 @@ package helloworld;
 
 public class Helloworld {
 	public static void main(String[] args) {
-	 System.out.println("Helloworld");
+	String s= "HelloWorld";
+	 System.out.println(s);
 	}
 }
